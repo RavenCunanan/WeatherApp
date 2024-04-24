@@ -1,4 +1,4 @@
-A web based weather app that tells weather information from a user inputted city.
+A web based weather app that tells weather information from a city that the user inputs.
 
 Data is fetched from Open Weather API.
 
