@@ -6,4 +6,5 @@ Coded with HTML, CSS, and JavaScript.
 
 
 
-![1](https://github.com/RavenCunanan/WeatherApp/assets/63638637/b9050dcd-cc4a-404e-9bf5-e58248b301aa)
+
+![11](https://github.com/RavenCunanan/WeatherApp/assets/63638637/0803cc1e-d5a7-4cfc-8403-376c122392b2)
